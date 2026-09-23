@@ -1,5 +1,5 @@
 # my-simple-webpage
-#Welcome to my webpage.#
+# Welcome to my webpage. #
 **My favourite birds:**
 - shoebills
 - cockatiels
